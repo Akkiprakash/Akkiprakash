@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Backend Development**
 - 🌱 I’m currently learning **Java, Spring Boot, DSA and SQL**
 - 💞️ I’m looking to collaborate on **Java backend projects and API development**
-- 📫 How to reach me: **akkiprakash@gmail.com**
+- 📫 How to reach me: **akkiprakash741@gmail.com || akkiprakash1456@gmail.com **
 - ⚡ Fun fact: I enjoy solving LeetCode problems and exploring new tech.
 
 ### 🚀 Tech Stack
